@@ -1,9 +1,9 @@
 {
 	"monsterfeatures": [
 		{
-			"name": "Aggressive",
-			"example": "Orc",
-			"effect": "As a bonus action, the creature can move up to its speed toward a hostile creature it can see.",
+			"İsim": "Agresif",
+			"Örnek": "Ork",
+			"effect": "Bonus aksiyon olarak görebildiği bir düşmana doğru normalden hızlı ilerleyebilir.",
 			"hp": "",
 			"ac": "",
 			"dpr": "2",
